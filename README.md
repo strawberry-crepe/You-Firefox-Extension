@@ -2,6 +2,10 @@
 
 This Firefox extension sets you.com as your Firefox homepage and default search engine.
 
+## Fork
+
+The fork reverts back to You.com normal search and removes unnecessary junk from the web links.
+
 **Download**
 
 You can download the official extension at https://addons.mozilla.org/en-US/firefox/addon/you-com/
